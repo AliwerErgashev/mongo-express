@@ -1,0 +1,19 @@
+{
+  "name": "mongo-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "express-async-handler": "^1.1.4",
+    "joi": "^14.0.1",
+    "joi-objectid": "^2.0.0",
+    "mongoose": "^5.3.6",
+    "nodemon": "^1.18.4"
+  }
+}
